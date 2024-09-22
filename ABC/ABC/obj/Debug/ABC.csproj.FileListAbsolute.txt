@@ -1,0 +1,7 @@
+C:\Users\duyco\source\repos\ABC\ABC\bin\ABC.dll.config
+C:\Users\duyco\source\repos\ABC\ABC\bin\ABC.dll
+C:\Users\duyco\source\repos\ABC\ABC\bin\ABC.pdb
+C:\Users\duyco\source\repos\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\Users\duyco\source\repos\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Users\duyco\source\repos\ABC\ABC\obj\Debug\ABC.dll
+C:\Users\duyco\source\repos\ABC\ABC\obj\Debug\ABC.pdb

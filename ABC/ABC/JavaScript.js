@@ -1,0 +1,1 @@
+﻿document.getElementById("xyz").innerHTML = "i love u";
